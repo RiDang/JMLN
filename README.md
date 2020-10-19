@@ -1,4 +1,4 @@
-# JMLN: Joint Metric Learning Network for 2D
+# JMLN: Joint Metric Learning Network for 2D Sketch-based 3D Shape Retrieval
 Sketch-based 3D Shape Retrieval
 
 ## Introduction
