@@ -11,7 +11,7 @@ The code is used in the paper of JMLN, which attempts to further  improve the cr
 
 The code has been tested successfully on Ubuntu 18.04.3 LTS, Cuda 10.0, GTX 1080 Ti,  Pytorch 1.4.0, Docker images ufoym/deepo:all-py36-cu100.
 
-Note: Docker is suggested to used.
+Note: Using docker is suggested.
 
 ## Update
 ## Data and Pre-trained Models
