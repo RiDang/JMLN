@@ -5,7 +5,7 @@ Sketch-based 3D Shape Retrieval
 
 The code is used in the paper of JMLN, which attempts to further  improve the cross-domain retrieval task. The framework is shown as followings:
 
-![image-20201019172033483](images\\jmln.png)
+![image-20201019172033483](images/jmln.png)
 
 ## Environment
 
